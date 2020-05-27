@@ -1,4 +1,4 @@
-# etl-of-down-30-stocks-data
+# etl-of-dow-30-stocks-data
 
 The focus of this ETL Project lies on the Dow 30 stocks. The Dow 30 is a stock market index that
 measures the stock performance of 30 large companies listed on stock exchanges in the US. This
